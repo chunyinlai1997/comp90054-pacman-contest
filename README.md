@@ -1,4 +1,4 @@
-# UoM COMP90054 AI Planning for Autonomy - Pacman Project Template
+# UoM COMP90054 AI Planning for Autonomy - Pacman Project
 
 This repository is used by students to fork their own repository to work for the team submission.
 
